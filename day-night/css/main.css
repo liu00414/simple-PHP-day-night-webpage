@@ -1,0 +1,28 @@
+*{
+  padding:0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  font-size: 100%;
+  font-family:'Raleway', ‘Trebuchet MS’, 'Helvetica', 'Arial', sans-serif;
+text-align: center;
+    margin-top: 20%;
+}
+body.day{
+    background-color:#b8e5e6; 
+  /* add a background and text colour */
+}
+body.night{
+    background-color:#9698ca; 
+  /* add a different background and text colour */
+}
+/* plus any other CSS you want */
+
+h1{
+    text-align: center;
+    line-height: 4rem;
+    font-size: 2rem;
+    font-family: Cardo, ‘Palatino Linotype’, 'Times New Roman', 'Georgia', serif;
+}
+
